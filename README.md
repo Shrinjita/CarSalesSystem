@@ -39,6 +39,7 @@ The **Car Sales System** is a **Java Swing-based GUI application** designed to m
 | `SimpleGUI.java`             | Basic Java Swing GUI example (for demonstration purposes).     |
 | `SwingInheritanceExample.java`| Demonstrates inheritance in Swing components.                   |
 | `WelcomePanel.java`          | Displays system statistics and a welcome message.              |
+| `Manufacturer.java`          | Manages car manufacturers and their associated cars.           |
 
 ---
 
@@ -46,7 +47,7 @@ The **Car Sales System** is a **Java Swing-based GUI application** designed to m
 - **Java** – Core programming language.  
 - **Swing & AWT** – For building the GUI.  
 - **Event Handling** – For managing user interactions.  
-- **File I/O** – To save and load car data.
+- **File I/O** – To save and load car data.  
 
 ---
 
